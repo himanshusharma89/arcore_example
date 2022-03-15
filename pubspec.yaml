@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
+  ar_flutter_plugin: ^0.6.2
 
 dev_dependencies:
   flutter_test:
