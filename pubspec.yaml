@@ -11,6 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_fonts:
   ar_flutter_plugin: ^0.6.2
 
 dev_dependencies:
@@ -21,3 +22,7 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+
+  assets:
+    - assets/triangle.png
+    - assets/Chicken_01/
