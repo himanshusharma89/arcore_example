@@ -12,7 +12,6 @@ dependencies:
   flutter:
     sdk: flutter
   google_fonts:
-  ar_flutter_plugin: ^0.6.2
 
 dev_dependencies:
   flutter_test:
