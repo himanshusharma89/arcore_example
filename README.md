@@ -1,6 +1,6 @@
-# arcore_example
+# AR App Example in Flutter
 
-A new project to learn how to use ARCore in your Flutter App
+A new project to learn how to use ARCore and ARKit in your Flutter App using ar_flutter_example
 
 ## Getting Started
 
